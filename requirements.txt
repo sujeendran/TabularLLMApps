@@ -1,0 +1,6 @@
+streamlit
+pandasai
+python-dotenv
+bs4
+langchain
+seaborn
